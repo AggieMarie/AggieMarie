@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AggieMarie
 - 👀 I’m interested in mathematics, physics, history, travel
-- 🌱 I’m currently learning programming in Java
+- 🌱 I’m currently learning programming in Java and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
